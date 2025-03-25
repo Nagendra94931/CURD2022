@@ -363,8 +363,7 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # Igonre appsettings
-!.CURD2022/appsettings.json
-
+New/CURD2022/appsettings.json
 
 
 
